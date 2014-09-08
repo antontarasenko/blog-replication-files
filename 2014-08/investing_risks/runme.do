@@ -1,6 +1,6 @@
 clear
 graph drop funding acq2clo
-import delimited "/Users/Anton/Downloads/cb/cb_companies.csv", varnames(1) clear
+import delimited "cb_companies.csv", varnames(1) clear
 g is_acquired = 0
 replace is_acquired = 1 if status=="acquired"
 g is_closed = 0

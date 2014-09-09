@@ -1,4 +1,4 @@
-import delimited "../../2014-08/investing_risks/cb_companies.csv", varnames(1) clear
+import delimited "../../../../2014/08/investing_risks/cb_companies.csv", varnames(1) clear
 g id = 1
 collapse (count) id, by(country_code funding_rounds)
 lab var id "Total number of startups"

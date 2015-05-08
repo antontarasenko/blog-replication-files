@@ -1,0 +1,300 @@
+1
+i
+funny 8,491,543
+2
+i
+announcements 8,478,507
+3
+i
+AskReddit 8,473,368
+4
+i
+pics 8,409,451
+5
+i
+todayilearned 8,343,499
+6
+i
+worldnews 8,186,722
+7
+i
+science 8,157,656
+8
+i
+IAmA 8,091,373
+9
+i
+videos 7,668,705
+10
+i
+gaming 7,608,155
+11
+i
+movies 7,239,648
+12
+i
+Music 6,988,022
+13
+i
+aww 6,844,268
+14
+i
+news 5,524,370
+15
+i
+gifs 5,407,605
+16
+i
+askscience 5,246,986
+17
+i
+explainlikeimfive 5,154,088
+18
+i
+technology 5,130,958
+19
+i
+EarthPorn 4,879,981
+20
+i
+bestof 4,785,738
+21
+i
+books 4,685,605
+22
+i
+WTF 4,565,322
+23
+i
+television 4,437,629
+24
+i
+AdviceAnimals 4,259,622
+25
+i
+LifeProTips 3,661,353
+26
+i
+sports 3,504,372
+27
+i
+mildlyinteresting 3,428,368
+28
+i
+DIY 3,284,394
+29
+i
+Fitness 3,226,614
+30
+i
+Showerthoughts 3,166,545
+31
+i
+space 3,157,533
+32
+i
+Jokes 3,118,242
+33
+i
+tifu 3,116,909
+34
+i
+politics 3,114,138
+35
+i
+food 3,102,434
+36
+i
+photoshopbattles 3,071,737
+37
+i
+InternetIsBeautiful 3,045,862
+38
+i
+GetMotivated 3,008,435
+39
+i
+history 2,993,136
+40
+i
+nottheonion 2,989,674
+41
+i
+gadgets 2,988,382
+42
+i
+dataisbeautiful 2,972,609
+43
+i
+Futurology 2,961,685
+44
+i
+Documentaries 2,944,452
+45
+i
+listentothis 2,926,184
+46
+i
+personalfinance 2,908,204
+47
+i
+philosophy 2,894,620
+48
+i
+nosleep 2,866,918
+49
+i
+Art 2,839,513
+50
+i
+OldSchoolCool 2,829,747
+51
+i
+creepy 2,828,707
+52
+i
+UpliftingNews 2,808,352
+53
+i
+WritingPrompts 2,709,230
+54
+i
+TwoXChromosomes 2,675,974
+55
+i
+atheism 2,087,359
+56
+i
+woahdude 787,241
+57
+i
+trees 736,871
+58
+i
+leagueoflegends 680,038
+59
+i
+4chan 634,853
+60
+i
+programming 611,973
+61
+i
+Games 604,125
+62
+i
+fffffffuuuuuuuuuuuu 587,972
+63
+i
+sex 563,182
+64
+i
+Android 548,202
+65
+i
+reactiongifs 523,130
+66
+i
+cringepics 511,902
+67
+i
+gameofthrones 500,120
+68
+i
+malefashionadvice 482,982
+69
+i
+Frugal 472,967
+70
+i
+YouShouldKnow 467,955
+71
+i
+pokemon 437,930
+72
+i
+Minecraft 436,750
+73
+i
+HistoryPorn 435,317
+74
+i
+interestingasfuck 422,566
+75
+i
+comics 404,291
+76
+i
+lifehacks 397,479
+77
+i
+AskHistorians 396,020
+78
+i
+tattoos 381,192
+79
+i
+pcmasterrace 379,108
+80
+i
+nfl 377,303
+81
+i
+JusticePorn 376,317
+82
+i
+Unexpected 375,168
+83
+i
+FoodPorn 372,388
+84
+i
+facepalm 363,247
+85
+i
+wheredidthesodago 344,374
+86
+i
+BlackPeopleTwitter 343,788
+87
+i
+soccer 342,390
+88
+i
+wallpapers 342,039
+89
+i
+TrueReddit 335,386
+90
+i
+cringe 332,751
+91
+i
+gentlemanboners 327,230
+92
+i
+europe 326,288
+93
+i
+freebies 317,768
+94
+i
+offbeat 311,269
+95
+i
+GameDeals 307,615
+96
+i
+relationships 306,973
+97
+i
+humor 304,753
+98
+i
+conspiracy 302,677
+99
+i
+Cooking 300,645
+100
+i
+oddlysatisfying 300,210
